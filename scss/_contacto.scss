@@ -1,0 +1,62 @@
+.botonFormulario {
+    background-color: #00A859;
+    border-radius: 3px;
+    color: #ffffff;
+    margin-top: 20px;
+    padding: 8px;
+    border: none;
+  
+    &:hover {
+      background-color: #08eb81;
+    }
+  }
+  
+  .logoContacto {
+    height: 100px;
+    margin: 20px 0 20px 0;
+  }
+  
+  .redes {
+    text-align: center;
+  }
+  
+  .facebook {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  
+  .instagram {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  
+  .tiktok {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  
+  .mapa {
+    padding: 0;
+    margin-bottom: -10px;
+    margin-top: 30px;
+  
+    iframe {
+      width: 100%;
+      height: 380px;
+    }
+  }
+
+  .textoBlanco {
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
