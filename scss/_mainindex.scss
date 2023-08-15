@@ -1,13 +1,10 @@
 .slogan {
-    background-color: #001F3F;
-    color: #ffffff;
     height: 80px;
     padding: 10px;
     text-align: center;
 }
 
 .tituloProducto {
-    color: #ffffff;
     margin-top: 50px;
     margin-bottom: 20px;
     text-align: center;
@@ -21,8 +18,6 @@
         height: 23rem;
         width: 20rem;
         margin: 1rem auto;
-        background-color: #353535;
-        color: #ffffff;
     }
 
     .imgProductos {
@@ -32,9 +27,7 @@
 
     .botonProductos {
         border-radius: 3px;
-        background-color: #00A859;
         border: none;
-        color: #ffffff;
         height: 35px;
         width: 80px;
         transition: .5s, color .10s;
@@ -55,21 +48,13 @@
     height: 10rem;
     width: 15rem;
     object-fit: contain;
-    background-color: #ffffff;
     padding: 10px;
     border-radius: 5px;
     margin: auto;
     margin-bottom: 20px;
 }
 
-.botonCompra {
-    border-radius: 3px;
-    background-color: #00A859;
-    border: none;
-    color: #ffffff;
-    height: 35px;
-    width: 80px;
-}
+
 
 @media (max-width:500px) {
     h3 {

@@ -1,8 +1,6 @@
 .preguntasFrecuentes {
-    background-color: #353535;
     width: 1000px;
     padding: 10px;
-    color: #ffffff;
     margin-top: 20px;
   }
   
@@ -75,20 +73,16 @@
 
   @media (max-width :576px) {
     .preguntasFrecuentes {
-        background-color: #353535;
         width: 400px;
         padding: 10px;
-        color: #ffffff;
         margin-top: 20px;
     }
   }
 
   @media (max-width :350px) {
     .preguntasFrecuentes {
-        background-color: #353535;
         width: 270px;
         padding: 10px;
-        color: #ffffff;
         margin-top: 20px;
     }
   }

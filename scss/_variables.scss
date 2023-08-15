@@ -1,1 +1,96 @@
-$color-fondo: #000000;
+$color-negro: #000000;
+$color-verde: #00A859;
+$color-verde-claro: #08eb81;
+$color-azul: #001F3F;
+$color-gris: #D3D3D3;
+$color-blanco: #FFFFFF;
+$color-amarillo: #FFD700;
+$color-girs-oscuro: #353535;
+$color-gris-medio: #777;
+
+header {
+    background-color: $color-blanco;
+}
+
+body {
+    background-color: $color-negro;
+}
+
+.slogan {
+    background-color: $color-azul;
+    color: $color-blanco;
+}
+
+.tituloproducto {
+    color: $color-blanco;
+}
+
+.card {
+    background-color: $color-girs-oscuro;
+    color: $color-blanco;
+}
+
+.mainProductos .botonProductos {
+    background-color: $color-verde;
+    color: $color-blanco;
+}
+
+.botonProductos {
+    background-color: $color-verde;
+    color: $color-blanco;
+}
+
+.imgEventos {
+    background-color: $color-blanco;
+}
+
+h2 {
+    color: $color-blanco;
+}
+
+.meta {
+    color: $color-gris-medio;
+}
+
+.botonReviews {
+    background-color: $color-verde;
+    color: $color-blanco;
+}
+
+.parrafoReview {
+    color: $color-blanco;
+}
+
+.preguntasFrecuentes {
+    background-color: $color-girs-oscuro;
+    color: $color-blanco;
+}
+
+.botonFormulario {
+    background-color: $color-verde;
+    color: $color-blanco;
+}
+
+.botonFormulario:hover {
+    background-color: $color-verde-claro;
+}
+
+.facebook {
+    color: $color-blanco;
+}
+
+.instagram {
+    color: $color-blanco;
+}
+
+.tiktok {
+    color: $color-blanco;
+}
+
+.textoBlanco {
+    color: $color-blanco;
+}
+
+footer {
+    background-color: $color-gris;
+}
