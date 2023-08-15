@@ -1,8 +1,8 @@
 @mixin parrafos {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-.parrafosPrincipales {
-    @include parafos;
+.parrafos {
+    @include parrafos;
 }
